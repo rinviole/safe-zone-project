@@ -854,7 +854,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: -207, y: 163.46}
+  m_AnchoredPosition: {x: -226, y: 191.67}
   m_SizeDelta: {x: 314, y: 35.35}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &236193739
@@ -2962,10 +2962,10 @@ RectTransform:
   m_Father: {fileID: 1429172323}
   m_RootOrder: 4
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
-  m_AnchorMin: {x: 0, y: 0}
-  m_AnchorMax: {x: 1, y: 1}
-  m_AnchoredPosition: {x: 353.1, y: -165.8}
-  m_SizeDelta: {x: -731.41, y: -424.37}
+  m_AnchorMin: {x: 0.5, y: 0.5}
+  m_AnchorMax: {x: 0.5, y: 0.5}
+  m_AnchoredPosition: {x: 353.1, y: -165.79999}
+  m_SizeDelta: {x: 68.59003, y: 25.630005}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &987317185
 MonoBehaviour:
@@ -3968,7 +3968,7 @@ MonoBehaviour:
   m_ReferencePixelsPerUnit: 100
   m_ScaleFactor: 1
   m_ReferenceResolution: {x: 800, y: 600}
-  m_ScreenMatchMode: 0
+  m_ScreenMatchMode: 2
   m_MatchWidthOrHeight: 0
   m_PhysicalUnit: 3
   m_FallbackScreenDPI: 96
@@ -4350,7 +4350,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: 337.1, y: 166.13}
+  m_AnchoredPosition: {x: 332, y: 191.67001}
   m_SizeDelta: {x: 322.5, y: 93}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &1402579219
@@ -4944,10 +4944,10 @@ RectTransform:
   m_Father: {fileID: 1429172323}
   m_RootOrder: 5
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
-  m_AnchorMin: {x: 0, y: 0}
-  m_AnchorMax: {x: 1, y: 1}
+  m_AnchorMin: {x: 0.5, y: 0.5}
+  m_AnchorMax: {x: 0.5, y: 0.5}
   m_AnchoredPosition: {x: 353.1, y: -199}
-  m_SizeDelta: {x: -731.41, y: -424.37}
+  m_SizeDelta: {x: 68.59003, y: 25.630005}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &1604935701
 MonoBehaviour:
@@ -5507,7 +5507,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 0c40c41aaf49d9b47b0dcaf01a4fecca, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  movementSpeed: 200
+  movementSpeed: 150
 --- !u!50 &1755145057
 Rigidbody2D:
   serializedVersion: 4
@@ -5637,7 +5637,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: -367.95, y: -198.7}
+  m_AnchoredPosition: {x: -367.95, y: -200.6}
   m_SizeDelta: {x: 64.1, y: 64.1}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &1795393180
